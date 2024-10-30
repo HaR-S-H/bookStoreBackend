@@ -1,0 +1,30 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "price": 10.99,
+        "category": "Fiction",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81AFocWfc2L.jpg",
+        "title": "Classic Novel"
+    },
+    {
+        "name": "Introduction to Algorithms",
+        "price": 49.99,
+        "category": "Education",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81p1L85KinL.jpg",
+        "title": "Algorithm Textbook"
+    },
+    {
+        "name": "The Art of War",
+        "price": 7.99,
+        "category": "History",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81gTwYAhU7L.jpg",
+        "title": "Ancient Military Strategy"
+    },
+    {
+        "name": "Clean Code",
+        "price": 34.99,
+        "category": "Programming",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41jEbK-jG+L._SX376_BO1,204,203,200_.jpg",
+        "title": "Best Practices for Code"
+    }
+]
